@@ -1,4 +1,4 @@
-# IEvangelist - Video Chat (Powered by Twilio)
+# Video Chat
 
 This is a demo app built for the purpose of a Twilio blog post. This application uses several key technologies that are intended to be highlighted.
 
